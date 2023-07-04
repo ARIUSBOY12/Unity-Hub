@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ARIUSBOY12/Unity-Hub/main/Unity%20Hub%20(OFFICIAL)%20Source"))()
